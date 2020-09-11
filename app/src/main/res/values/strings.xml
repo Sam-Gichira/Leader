@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LeaderBoard</string>
+    <string name="tab_text_1">Learning Leaders</string>
+    <string name="tab_text_2">Skill IQ Leaders</string>
+    <string name="AppTitle">LEADERBOARD</string>
+    <string name="learning_hours_country">learning hours, country</string>
+    <string name="leaners_name">Leaners Name</string>
+    <string name="country">country</string>
+    <string name="learning_hours">learning_hours</string>
+    <string name="error_data_message">Error Occured While Loading Data</string>
+    <string name="skill_iq">skill_iq</string>
+    <string name="submit">Submit</string>
+</resources>
