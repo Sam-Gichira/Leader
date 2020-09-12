@@ -10,5 +10,6 @@ c.	Customizing Toolbar
 d.	RecyclerView
 e.	Making Network Request
 f.	Working with Google Form and many more...
+![alt text] (https://github.com/Sam-Gichira/LeaderBoard/blob/master/Screenshot_2020-09-12-00-04-46.png)
 
 
